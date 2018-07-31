@@ -15,7 +15,7 @@ transmissions. In such a cryptosystem, the encryption key is public and it is di
 
 - To Enter the text which will be encrypted/decrypted, open **Text Pane** from **Tools** menu. Write the text there and press **ESC** key to save and close the window. Press **Process** key to continue to encryption/decryption, then a window will be opened which has encrypted/decrypted text.
 
-# Contact Me
+# Contact
 
 - Here is my e-mail address: burkaykirnik@gmail.com
 
